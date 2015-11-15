@@ -1,0 +1,34 @@
+header {
+        float: center;
+        background-color: ;
+        padding: 5px;
+        font-size: 25px;
+        display: block;
+    }
+    nav {
+        float: center;
+        display: block;
+        text-align: center;
+    }
+    nav ul {
+        padding: 5px;
+        float: center;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    a {
+        font-size: 25px;
+        padding: 35px;
+        color: ;
+    }
+/*More custom coding*/
+​
+​
+.Know
+  {background-color: #c26b0a; padding: 10px}
+.b1
+  {background-color: #cc7130;font: 15px arial, sans-serif; padding: 10px}
+.b2
+  {background-color: #b53600;font: 15px arial, sans-serif; padding: 10px}
+.b3
+  {background-color: #c2150a;font: 15px arial, sans-serif; padding: 10px}

@@ -1,0 +1,67 @@
+html {
+      height: 100%;
+    }
+    body {
+       width: 1600px;
+       height: 100%;
+       display: block;
+       text-align: center;
+    }
+
+    header {
+        float: center;
+        background-color: ;
+        padding: 5px;
+        font-size: 25px;
+        display: block;
+    }
+    nav {
+        float: center;
+        display: block;
+        text-align: center;
+    }
+
+    nav ul {
+        padding: 5px;
+        float: center;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        text-align: center;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+
+    }
+    a {
+        font-size: 25px;
+        padding: 35px;
+        color: ;
+    }
+    section {
+        width: 30%;
+        display: block;
+        text-align: center;
+
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
